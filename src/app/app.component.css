@@ -1,0 +1,39 @@
+.alert-style{
+    width: fit-content;
+    position: fixed;
+    top: 1;
+    right: 1%;
+    border-radius: 10px;
+    padding: 20px;
+    z-index: 20;
+    background-color: rgb(172, 172, 246);
+}
+
+.progress-bar{
+    height: 10px;
+    width: 100%;
+    background-color: black;
+}
+span .progress{
+    background-color: gray;
+}
+
+a{
+    padding: 15px;
+    background-color: aqua;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+.progress {
+    width: 100%;
+    background-color: gray;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.full {
+
+    height: 15px;
+    background-color: #19c8fa;
+}
